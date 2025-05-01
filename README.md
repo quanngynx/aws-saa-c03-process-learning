@@ -1,6 +1,6 @@
 # AWS Solutions Architect Associate [SAA-C03] process learning
 
-* This page contains notes primarily from Adrian Cantrill’s AWS Solutions Architect - Associate (SAA-C03). These notes should enable you to answer most, if not all, of the questions you may encounter in the exam.
+This page contains notes primarily from Adrian Cantrill’s AWS Solutions Architect - Associate (SAA-C03). These notes should enable you to answer most, if not all, of the questions you may encounter in the exam.
 
 ## Menu
 
